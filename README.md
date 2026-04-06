@@ -5,9 +5,6 @@ It lives in the menu bar, shows live system activity, and opens a full desktop d
 
 ![MacTaskManager animated preview](./media/mactaskmanager-preview.gif)
 
-Static screenshot:
-![MacTaskManager screenshot](./mactaskmanager-screenshot.png)
-
 ## Overview
 
 MacTaskManager is a lightweight menu-bar utility inspired by Task Manager on Windows, but designed with a clean macOS feel.
