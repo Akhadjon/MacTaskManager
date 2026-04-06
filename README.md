@@ -3,6 +3,9 @@
 Native macOS task manager built with SwiftUI and AppKit.
 It lives in the menu bar, shows live system activity, and opens a full desktop dashboard for process and performance monitoring.
 
+![MacTaskManager animated preview](./media/mactaskmanager-preview.gif)
+
+Static screenshot:
 ![MacTaskManager screenshot](./mactaskmanager-screenshot.png)
 
 ## Overview
